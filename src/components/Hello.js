@@ -4,6 +4,8 @@ export default function Hello(props) {
   
   // hello
   // zake
+
+  //promena branch2
   
   if (props.name) {
     return <h1>Hello, {props.name}!</h1>;
